@@ -1,0 +1,19 @@
+body{
+
+	border: 0px;
+	margin: 0px;
+
+}
+
+canvas{
+	/*background-color: #f0f0f0;*/
+	position: absolute;
+	margin: auto;
+	display: block;
+
+}
+
+#c_bg{
+	background-color: #f0f0f0;
+}
+
